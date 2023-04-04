@@ -8,16 +8,16 @@
         <div class="col-md-3 col-sm-6 mb-4 mb-md-0">
           <h6>Address</h6>
           <ul class="list-unstyled">
-            <li class="font-secondary text-dark">Sydney</li>
-            <li class="font-secondary text-dark">6 rip carl Avenue CA 90733</li>
+            <li class="font-secondary text-dark">Mymensingh</li>
+            <li class="font-secondary text-dark">1/2 Bagmara Road, Sadar</li>
           </ul>
         </div>
         <div class="col-md-3 col-sm-6 mb-4 mb-md-0">
           <h6>Contact Info</h6>
           <ul class="list-unstyled">
-            <li class="font-secondary text-dark">Tel: +90 000 333 22</li>
-            <li class="font-secondary text-dark">Mail: exmaple@ymail.com</li>
-          </ul>
+            <li class="font-secondary text-dark">Tel: +88 01921 44 00 84</li>
+            <li class="font-secondary text-dark">Mail: mesuman@yahoo.com</li>
+          </ul>------------
         </div>
         <div class="col-md-3 col-sm-6 mb-4 mb-md-0">
           <h6>Follow</h6>

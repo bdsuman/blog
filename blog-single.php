@@ -96,6 +96,14 @@ include ('include\navber.php');
             ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
             labore et dolore magnam aliquam quaerat voluptatem.</p>
         </div>
+        <div class="col-md-3 col-sm-6 mb-4 mb-md-0">
+          <h6>Share Post</h6>
+          <ul class="list-inline d-inline-block">
+            <li class="list-inline-item"><a href="#" class="text-dark"><i class="ti-facebook"></i></a></li>
+            <li class="list-inline-item"><a href="#" class="text-dark"><i class="ti-twitter-alt"></i></a></li>
+            <li class="list-inline-item"><a href="#" class="text-dark"><i class="ti-instagram"></i></a></li>
+          </ul>
+        </div>
       </div>
       <div class="col-lg-4">
         <div class="widget search-box">
